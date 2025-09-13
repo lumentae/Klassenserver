@@ -1,0 +1,13 @@
+{
+    "allowedVersions": [],
+    "includes": [
+        "config",
+        "eula.txt",
+        "whitelist.json"
+    ],
+    "minecraft": {
+        "type": "neoforge",
+        "version": "1.21.1"
+    },
+    "name": "Klassenserver8"
+}
