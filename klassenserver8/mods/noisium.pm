@@ -5,6 +5,10 @@
         "size": 60296,
         "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/nJBE6tif/noisium-neoforge-2.3.0%2Bmc1.21-1.21.1.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "noisium",
     "name": "Noisium",
     "platform": "modrinth",

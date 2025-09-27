@@ -5,6 +5,10 @@
         "size": 340572,
         "url": "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar"
     },
+    "env": {
+        "client": "optional",
+        "server": "required"
+    },
     "id": "chunky",
     "name": "Chunky",
     "platform": "modrinth",

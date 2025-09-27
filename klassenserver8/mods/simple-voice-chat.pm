@@ -1,9 +1,13 @@
 {
     "download": {
-        "sha1": "91ac1ed993a40e9825ce8b5d0ddcc6f60dfdfb60",
-        "sha512": "98c94a7c6d3674ca1d31f1f5e92e447d2c7880629f9a8c7c10dad146a8ae3f2e080e81fef7f4e5c2ee011e0f28d2bea034a61e16a4bd4c2a0cab0bace5152262",
-        "size": 4869217,
-        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/dpS4V7MI/voicechat-neoforge-1.21.1-2.6.3.jar"
+        "sha1": "93f561fdd300e6c6a5176ccb5886f418a1347ed7",
+        "sha512": "202e342f615abff9a615d73bb960b6248214a8935bba92b16c0d9d223f7203a3cb2cb1d8af1b99093dd299be7d41f1c7e5ad14366fefb3f2be3784c5cb804fe1",
+        "size": 4869302,
+        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/GAjKFWUF/voicechat-neoforge-1.21.1-2.6.4.jar"
+    },
+    "env": {
+        "client": "required",
+        "server": "required"
     },
     "id": "simple-voice-chat",
     "name": "Simple Voice Chat",
@@ -11,18 +15,18 @@
     "requirements": [
         {
             "dependency_type": "optional",
-            "project_id": "9s6osm5g",
+            "project_id": "9eGKb6K1",
             "version_id": null
         },
         {
             "dependency_type": "optional",
-            "project_id": "9eGKb6K1",
+            "project_id": "9s6osm5g",
             "version_id": null
         }
     ],
     "slug": "simple-voice-chat",
     "update": {
         "id": "simple-voice-chat",
-        "version": "dpS4V7MI"
+        "version": "GAjKFWUF"
     }
 }

@@ -5,13 +5,17 @@
         "size": 9308969,
         "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/fTbylf08/guideme-21.1.14.jar"
     },
-    "id": "Ck4E7v7R",
+    "env": {
+        "client": "required",
+        "server": "required"
+    },
+    "id": "guideme",
     "name": "GuideME",
     "platform": "modrinth",
     "requirements": [],
     "slug": "guideme",
     "update": {
-        "id": "Ck4E7v7R",
+        "id": "guideme",
         "version": "fTbylf08"
     }
 }

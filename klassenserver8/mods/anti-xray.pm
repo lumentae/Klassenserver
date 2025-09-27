@@ -5,6 +5,10 @@
         "size": 125936,
         "url": "https://cdn.modrinth.com/data/sml2FMaA/versions/XgQWQ2Hj/antixray-neoforge-1.4.6%2B1.21.1.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "anti-xray",
     "name": "AntiXray",
     "platform": "modrinth",

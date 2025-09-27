@@ -5,13 +5,17 @@
         "size": 1163890,
         "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
     },
-    "id": "cloth-config",
+    "env": {
+        "client": "optional",
+        "server": "optional"
+    },
+    "id": "9s6osm5g",
     "name": "Cloth Config API",
     "platform": "modrinth",
     "requirements": [],
     "slug": "cloth-config",
     "update": {
-        "id": "cloth-config",
+        "id": "9s6osm5g",
         "version": "izKINKFg"
     }
 }

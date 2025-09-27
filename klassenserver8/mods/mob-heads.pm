@@ -5,6 +5,10 @@
         "size": 2929688,
         "url": "https://cdn.modrinth.com/data/82uI0waE/versions/nSEC1X9n/mob-heads-v3.2.5.jar"
     },
+    "env": {
+        "client": "optional",
+        "server": "required"
+    },
     "id": "mob-heads",
     "name": "Mob Heads",
     "platform": "modrinth",

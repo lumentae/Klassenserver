@@ -5,6 +5,10 @@
         "size": 18599196,
         "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/tS7ygzAE/create-1.21.1-6.0.6.jar"
     },
+    "env": {
+        "client": "required",
+        "server": "required"
+    },
     "id": "create",
     "name": "Create",
     "platform": "modrinth",

@@ -5,6 +5,10 @@
         "size": 46384,
         "url": "https://cdn.modrinth.com/data/YdVBZMNR/versions/Bhim3m1a/justplayerheads-1.21.1-4.2.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "just-player-heads",
     "name": "Just Player Heads",
     "platform": "modrinth",

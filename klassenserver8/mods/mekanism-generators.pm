@@ -1,9 +1,13 @@
 {
     "download": {
-        "sha1": "a57b1769e92d22971d1a569b3d08342cc2ea0e6b",
-        "sha512": "1a75f8eb32f7e90d5afb2be4ddac3e03d32acf8a429f823be4042007cd119094c23e0d681fbc0f07a8d830431dc4c3ac733edfb7ea96d54d517f27ec35391932",
-        "size": 1104553,
-        "url": "https://cdn.modrinth.com/data/OFVYKsAk/versions/rLQkpjiL/MekanismGenerators-1.21.1-10.7.15.81.jar"
+        "sha1": "4b93bd81b4369956035a3405f5761fe4cc4bee03",
+        "sha512": "fb279a6bee754588526afae7146d7658953c9d60e816ba905149b6eeeaff38d9d87b787e2827ad013d2d711597262727af3364b14963bffd45ce6e7bd143b808",
+        "size": 1104554,
+        "url": "https://cdn.modrinth.com/data/OFVYKsAk/versions/EN3R7Eeq/MekanismGenerators-1.21.1-10.7.16.82.jar"
+    },
+    "env": {
+        "client": "required",
+        "server": "required"
     },
     "id": "mekanism-generators",
     "name": "Mekanism Generators",
@@ -12,12 +16,12 @@
         {
             "dependency_type": "required",
             "project_id": "Ce6I4WUE",
-            "version_id": "zcaMNWl7"
+            "version_id": "JpDlMCsB"
         }
     ],
     "slug": "mekanism-generators",
     "update": {
         "id": "mekanism-generators",
-        "version": "rLQkpjiL"
+        "version": "EN3R7Eeq"
     }
 }

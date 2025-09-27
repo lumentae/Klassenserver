@@ -5,6 +5,10 @@
         "size": 36954,
         "url": "https://cdn.modrinth.com/data/U3eoZT3o/versions/QV78XqMj/infinitetrading-1.21.1-4.6.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "infinite-trading",
     "name": "Infinite Trading",
     "platform": "modrinth",

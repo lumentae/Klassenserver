@@ -6,8 +6,10 @@
         "whitelist.json"
     ],
     "minecraft": {
+        "loaderVersion": "21.1.209",
         "type": "neoforge",
         "version": "1.21.1"
     },
-    "name": "Klassenserver8"
+    "name": "Klassenserver8",
+    "version": "1.0.0"
 }

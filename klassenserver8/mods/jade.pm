@@ -5,6 +5,10 @@
         "size": 656730,
         "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eNY0Rg8n/Jade-1.21-NeoForge-15.1.6.jar"
     },
+    "env": {
+        "client": "optional",
+        "server": "optional"
+    },
     "id": "jade",
     "name": "Jade 🔍",
     "platform": "modrinth",

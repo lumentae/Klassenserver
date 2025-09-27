@@ -5,6 +5,10 @@
         "size": 6222854,
         "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "worldedit",
     "name": "WorldEdit",
     "platform": "modrinth",

@@ -5,6 +5,10 @@
         "size": 5414670,
         "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/8iJcPOHJ/bluemap-5.7-neoforge.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "bluemap",
     "name": "BlueMap",
     "platform": "modrinth",

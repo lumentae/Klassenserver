@@ -5,6 +5,10 @@
         "size": 223970,
         "url": "https://cdn.modrinth.com/data/WC4UgDcZ/versions/jUOOQMmy/grind-enchantments-4.0.1%2Bneoforge-1.21.1.jar"
     },
+    "env": {
+        "client": "optional",
+        "server": "required"
+    },
     "id": "grind-enchantments",
     "name": "Grind Enchantments",
     "platform": "modrinth",

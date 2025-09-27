@@ -5,13 +5,17 @@
         "size": 584004,
         "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
     },
-    "id": "architectury-api",
+    "env": {
+        "client": "required",
+        "server": "required"
+    },
+    "id": "lhGA9TYQ",
     "name": "Architectury API",
     "platform": "modrinth",
     "requirements": [],
     "slug": "architectury-api",
     "update": {
-        "id": "architectury-api",
+        "id": "lhGA9TYQ",
         "version": "ZxYGwlk0"
     }
 }

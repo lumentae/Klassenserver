@@ -5,6 +5,10 @@
         "size": 34787,
         "url": "https://cdn.modrinth.com/data/Lvv4SHrK/versions/xv5fSPWX/BetterThanMending-2.2.0.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "better-than-mending",
     "name": "Better Than Mending",
     "platform": "modrinth",

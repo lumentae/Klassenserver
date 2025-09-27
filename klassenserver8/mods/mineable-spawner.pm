@@ -5,6 +5,10 @@
         "size": 184076,
         "url": "https://cdn.modrinth.com/data/vj1HfksH/versions/Ily08INY/mineable-spawner-v.2.1.1.jar"
     },
+    "env": {
+        "client": "optional",
+        "server": "required"
+    },
     "id": "mineable-spawner",
     "name": "Mineable Spawner",
     "platform": "modrinth",

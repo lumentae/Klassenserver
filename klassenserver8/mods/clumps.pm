@@ -5,6 +5,10 @@
         "size": 18382,
         "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/jo7lDoK4/Clumps-neoforge-1.21.1-19.0.0.1.jar"
     },
+    "env": {
+        "client": "required",
+        "server": "required"
+    },
     "id": "clumps",
     "name": "Clumps",
     "platform": "modrinth",

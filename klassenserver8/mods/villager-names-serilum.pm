@@ -5,6 +5,10 @@
         "size": 76821,
         "url": "https://cdn.modrinth.com/data/gqRXDo8B/versions/MTjxRIUz/villagernames-1.21.1-8.2.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "villager-names-serilum",
     "name": "Villager Names",
     "platform": "modrinth",

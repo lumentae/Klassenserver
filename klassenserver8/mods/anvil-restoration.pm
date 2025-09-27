@@ -5,6 +5,10 @@
         "size": 25077,
         "url": "https://cdn.modrinth.com/data/bd8nwTGy/versions/s2Ff8GFL/anvilrestoration-1.21.1-2.4.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "anvil-restoration",
     "name": "Anvil Restoration",
     "platform": "modrinth",

@@ -5,6 +5,10 @@
         "size": 34284,
         "url": "https://cdn.modrinth.com/data/jCBrrLTs/versions/eD8qmM43/TaxFreeLevels-1.4.7-neoforge-1.21.1.jar"
     },
+    "env": {
+        "client": "required",
+        "server": "required"
+    },
     "id": "tax-free-levels",
     "name": "Tax Free Levels",
     "platform": "modrinth",

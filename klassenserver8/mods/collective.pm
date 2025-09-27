@@ -5,6 +5,10 @@
         "size": 934732,
         "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/ao7rZsss/collective-1.21.1-8.3.jar"
     },
+    "env": {
+        "client": "optional",
+        "server": "optional"
+    },
     "id": "e0M1UDsY",
     "name": "Collective",
     "platform": "modrinth",

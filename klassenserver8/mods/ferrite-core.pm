@@ -5,6 +5,10 @@
         "size": 115359,
         "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar"
     },
+    "env": {
+        "client": "optional",
+        "server": "optional"
+    },
     "id": "ferrite-core",
     "name": "FerriteCore",
     "platform": "modrinth",

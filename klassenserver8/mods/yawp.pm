@@ -5,6 +5,10 @@
         "size": 661753,
         "url": "https://cdn.modrinth.com/data/py6EMmAJ/versions/Eu905PCO/yawp-1.21.1-neoforge-0.6.0-beta1.jar"
     },
+    "env": {
+        "client": "unsupported",
+        "server": "required"
+    },
     "id": "yawp",
     "name": "Yet Another World Protector",
     "platform": "modrinth",
