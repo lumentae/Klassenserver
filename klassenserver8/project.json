@@ -3,7 +3,8 @@
     "includes": [
         "config",
         "eula.txt",
-        "whitelist.json"
+        "whitelist.json",
+        "servers.dat"
     ],
     "minecraft": {
         "loaderVersion": "21.1.209",

@@ -6,8 +6,8 @@
         "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
     },
     "env": {
-        "client": "optional",
-        "server": "optional"
+        "client": "required",
+        "server": "required"
     },
     "id": "9s6osm5g",
     "name": "Cloth Config API",

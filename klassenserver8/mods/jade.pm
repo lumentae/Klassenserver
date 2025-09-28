@@ -6,8 +6,8 @@
         "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eNY0Rg8n/Jade-1.21-NeoForge-15.1.6.jar"
     },
     "env": {
-        "client": "optional",
-        "server": "optional"
+        "client": "required",
+        "server": "required"
     },
     "id": "jade",
     "name": "Jade 🔍",
