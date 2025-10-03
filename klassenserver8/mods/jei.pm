@@ -1,12 +1,12 @@
 {
     "download": {
-        "sha1": "96a3ef22a73c23fffb9809f92254ab1752969f31",
-        "sha512": "117c79b359726c3c33fc359541c4217cdb485d1ddd2b2c72f8ae13fe3ed72240baf7713a0d54afec1ac7d3fb8ca4a46b6d209b220e60fd2b67b6ad4019928446",
-        "size": 1505384,
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/uQwr7ECW/jei-1.21.1-neoforge-19.25.0.321.jar"
+        "sha1": "f42aa17f8490dd437e75b8f4abd8360e9f0265b9",
+        "sha512": "4ab0100e8025d383b13952588b2e8ed53abe01d7a9963fe20d6ff3fd7a3bfe9d18fd6e7dc98815e6164409c5c758bec80c6f83213b958d59e8145a2183560dc6",
+        "size": 1505377,
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/DFIjSzbJ/jei-1.21.1-neoforge-19.25.0.322.jar"
     },
     "env": {
-        "client": "required",
+        "client": "optional",
         "server": "required"
     },
     "id": "jei",
@@ -16,6 +16,6 @@
     "slug": "jei",
     "update": {
         "id": "jei",
-        "version": "uQwr7ECW"
+        "version": "DFIjSzbJ"
     }
 }
