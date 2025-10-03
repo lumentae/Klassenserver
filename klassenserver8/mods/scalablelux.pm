@@ -6,8 +6,8 @@
         "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/j10HNoNf/ScalableLux-0.1.0.1%2Bneoforge.1cb1e91-all.jar"
     },
     "env": {
-        "client": "optional",
-        "server": "optional"
+        "client": "required",
+        "server": "required"
     },
     "id": "scalablelux",
     "name": "ScalableLux",
