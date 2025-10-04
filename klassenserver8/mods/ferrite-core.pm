@@ -6,8 +6,8 @@
         "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar"
     },
     "env": {
-        "client": "optional",
-        "server": "optional"
+        "client": "required",
+        "server": "required"
     },
     "id": "ferrite-core",
     "name": "FerriteCore",

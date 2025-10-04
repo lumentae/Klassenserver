@@ -6,7 +6,7 @@
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/DFIjSzbJ/jei-1.21.1-neoforge-19.25.0.322.jar"
     },
     "env": {
-        "client": "optional",
+        "client": "required",
         "server": "required"
     },
     "id": "jei",

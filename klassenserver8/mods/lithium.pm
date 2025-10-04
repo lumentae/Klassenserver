@@ -6,7 +6,7 @@
         "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xYxpXTIt/lithium-neoforge-0.15.0%2Bmc1.21.1.jar"
     },
     "env": {
-        "client": "optional",
+        "client": "required",
         "server": "required"
     },
     "id": "lithium",

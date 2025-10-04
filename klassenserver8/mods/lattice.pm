@@ -6,7 +6,7 @@
         "url": "https://lumentae.dev/lattice-neoforge-1.21.1-1.1.0.jar"
     },
     "env": {
-        "client": "optional",
+        "client": "required",
         "server": "required"
     },
     "id": "lattice",
