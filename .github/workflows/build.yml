@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       
-      - run: echo "NOW=$(date +'%Y.%m.%dT%H:%M:%S')" >> $GITHUB_ENV
+      - run: echo "NOW=$(date +'%Y.%m.%dT%H-%M-%S')" >> $GITHUB_ENV
 
       - uses: dsaltares/fetch-gh-release-asset@master
         with:
