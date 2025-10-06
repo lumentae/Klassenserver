@@ -5,7 +5,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  markscribe:
+  build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -34,4 +36,6 @@ jobs:
         with:
           tag_name: v${{ env.NOW }}
           name: Release v${{ env.NOW }}
-          files: klassenserver8/Klassenserver8.mrpack
+          files: |
+            klassenserver8/Klassenserver8.mrpack
+            klassenserver8/Klassenserver8.zip
