@@ -1,0 +1,37 @@
+name: Build
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      
+      - run: echo "NOW=$(date +'%Y.%m.%dT%H:%M:%S')" >> $GITHUB_ENV
+
+      - uses: dsaltares/fetch-gh-release-asset@master
+        with:
+          repo: 'lumentae/provisioner'
+          file: 'Linux-Release.zip'
+          
+      - name: Extract provisioner
+        uses: ihiroky/extract-action@v1
+        with:
+          file_path: Linux-Release.zip
+          extract_dir: provisioner/
+          
+      - run: chmod +x provisioner/provisioner
+      
+      - name: Compile project
+        run: |
+          cd klassenserver8 && ../provisioner/provisioner export && ../provisioner/provisioner export -t zip
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ env.NOW }}
+          name: Release v${{ env.NOW }}
+          files: klassenserver8/Klassenserver8.mrpack
