@@ -1,9 +1,9 @@
 {
     "download": {
-        "sha1": "93f561fdd300e6c6a5176ccb5886f418a1347ed7",
-        "sha512": "202e342f615abff9a615d73bb960b6248214a8935bba92b16c0d9d223f7203a3cb2cb1d8af1b99093dd299be7d41f1c7e5ad14366fefb3f2be3784c5cb804fe1",
-        "size": 4869302,
-        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/GAjKFWUF/voicechat-neoforge-1.21.1-2.6.4.jar"
+        "sha1": "73693aadf82e861eeb59ad616d5f7f17c7ce48d7",
+        "sha512": "9b388d37f87164395706819b38258050538c670a29d72430533706be11b43511ed9fdca7d1637e3a8603987f796afe83ee93f3c9b728d64a2c7c11ec0ec93140",
+        "size": 4870127,
+        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/X0DpctdR/voicechat-neoforge-1.21.1-2.6.5.jar"
     },
     "env": {
         "client": "required",
@@ -27,6 +27,6 @@
     "slug": "simple-voice-chat",
     "update": {
         "id": "simple-voice-chat",
-        "version": "GAjKFWUF"
+        "version": "X0DpctdR"
     }
 }

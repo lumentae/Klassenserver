@@ -1,9 +1,9 @@
 {
     "download": {
-        "sha1": "9e868fcb535db4b65eb71df4647c99a524baeb53",
-        "sha512": "7606c06be099bdb229968034c7731c179c6b367853dff5afd745bfc519406bf63ffdbecdcd5900d166a697a8ad2723167db27710243b5bd0461323c44ec6e354",
-        "size": 1268201,
-        "url": "https://cdn.modrinth.com/data/c3onkd5k/versions/fO2PBbXs/AsyncParticles-3.3.9%2B1.21.1.jar"
+        "sha1": "66a049f189c4c339cd262b903c62d397f483dd8f",
+        "sha512": "50ec94735d91d679b351d770673c6f072691611293fd63d1867d0b684c20b10532de440054f356e3b31d0167541167b6d6727ad4f6dbd639f5c64e3cc4e07c51",
+        "size": 1268810,
+        "url": "https://cdn.modrinth.com/data/c3onkd5k/versions/JtgP37Nd/AsyncParticles-3.3.10%2B1.21.1.jar"
     },
     "env": {
         "client": "required",
@@ -15,22 +15,12 @@
     "requirements": [
         {
             "dependency_type": "optional",
-            "project_id": "9s6osm5g",
-            "version_id": null
-        },
-        {
-            "dependency_type": "optional",
-            "project_id": "IhZuHxkl",
-            "version_id": null
-        },
-        {
-            "dependency_type": "optional",
             "project_id": "mOgUt4GM",
             "version_id": null
         },
         {
             "dependency_type": "optional",
-            "project_id": "V5ujR2yw",
+            "project_id": "LNytGWDc",
             "version_id": null
         },
         {
@@ -40,13 +30,23 @@
         },
         {
             "dependency_type": "optional",
-            "project_id": "LNytGWDc",
+            "project_id": "IhZuHxkl",
+            "version_id": null
+        },
+        {
+            "dependency_type": "optional",
+            "project_id": "9s6osm5g",
+            "version_id": null
+        },
+        {
+            "dependency_type": "optional",
+            "project_id": "V5ujR2yw",
             "version_id": null
         }
     ],
     "slug": "asyncparticles",
     "update": {
         "id": "asyncparticles",
-        "version": "fO2PBbXs"
+        "version": "JtgP37Nd"
     }
 }

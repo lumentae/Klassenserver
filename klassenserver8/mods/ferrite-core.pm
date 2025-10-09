@@ -1,9 +1,9 @@
 {
     "download": {
-        "sha1": "b82ff769aca2b8c542ce09b633bfa4ffd03c06d8",
-        "sha512": "590e4bf3641c8531fc7a03e84046c912f6b7ee4bd229ec77038d3b9a0cf039c707b500e8dda826a1f383166b8b6cd2c5c5859b61af88b25221d20432abbc36ab",
-        "size": 115359,
-        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar"
+        "sha1": "7279fc52c32a033acc2864a9bcb018b2e04bbd03",
+        "sha512": "2a5a7b79473c42572bdbbd1f429a459630d793b35f3eb17051139a94bced2d13c39e9c6309c81368d5502bc46c509e9868a8b5fa3cf93c51375a694cd96c20ac",
+        "size": 118911,
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CnpoQxCx/ferritecore-7.0.2-neoforge.jar"
     },
     "env": {
         "client": "required",
@@ -16,6 +16,6 @@
     "slug": "ferrite-core",
     "update": {
         "id": "ferrite-core",
-        "version": "BkJB5PPB"
+        "version": "CnpoQxCx"
     }
 }

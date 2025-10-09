@@ -1,9 +1,9 @@
 {
     "download": {
-        "sha1": "a1b8356492725be86dc6799cd6ee67f3ba2b61f1",
-        "sha512": "2d5e33c66e249c93e5d82b31e4efa321eee7dd78fa7ba1545840d98bd20044218d6496e8bdb1886caf694f9cefed905b29c2f1a0ccbe7c86101d7552af985235",
-        "size": 656730,
-        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eNY0Rg8n/Jade-1.21-NeoForge-15.1.6.jar"
+        "sha1": "0c7e9b04e2481d26c9080dd5d32351490d1fed3a",
+        "sha512": "351926187c564d1f2bae2f084c77f80fe850dc90837153ef01506c049f16b02307196ed383ae25cd334530106aa741b12dd90f5e1b205439fde2b74d09274bc0",
+        "size": 725736,
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/43sRR8f6/Jade-1.21.1-NeoForge-15.10.3.jar"
     },
     "env": {
         "client": "required",
@@ -22,6 +22,6 @@
     "slug": "jade",
     "update": {
         "id": "jade",
-        "version": "eNY0Rg8n"
+        "version": "43sRR8f6"
     }
 }
