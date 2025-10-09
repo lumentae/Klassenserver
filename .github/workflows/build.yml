@@ -24,7 +24,8 @@ jobs:
         with:
           file_path: Linux-Release.zip
           extract_dir: provisioner/
-          
+
+      - run: ls -la provisioner
       - run: chmod +x provisioner/provisioner
       
       - name: Compile project
@@ -32,6 +33,7 @@ jobs:
           cd klassenserver8 && ../provisioner/provisioner export && ../provisioner/provisioner export -t zip
 
       - name: Create GitHub Release
+        if: startsWith(github.event.head_commit.message, '[ignore]') == false
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ env.NOW }}
