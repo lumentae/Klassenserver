@@ -1,9 +1,9 @@
 {
     "download": {
-        "sha1": "45d6cb4e1c0f556a52ddb0861ca92331d663baed",
-        "sha512": "3b1c8895ce308e8c226f5c1dc0828cf95115aceef280f9a9df1752929480407e895a77bc841331e86cfe882e22d630bdc7a256a1782d6cfefef3be765a51e405",
-        "size": 231032,
-        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/FoxkF0vx/create_ultimate_factory-2.2.0-neoforge-1.21.1.jar"
+        "sha1": "b6499400aa999da3572b01aa7282d3c9c565d022",
+        "sha512": "c619b353f8c7d8ab25f60c40c2959f9f68390fe110e1ab9510191462061e6facbb6216888b2a1d58c350408ad3acda8e34edf6d9ab4642b78418ea83f143e986",
+        "size": 231033,
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/hZoEJMVk/create_ultimate_factory-2.2.1-neoforge-1.21.1.jar"
     },
     "env": {
         "client": "required",
@@ -22,6 +22,6 @@
     "slug": "create-ultimate-factory",
     "update": {
         "id": "create-ultimate-factory",
-        "version": "FoxkF0vx"
+        "version": "hZoEJMVk"
     }
 }
